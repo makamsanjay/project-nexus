@@ -16,7 +16,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('foodimage.jpeg');
+    background: url('https://res.cloudinary.com/dw3ryikmr/image/upload/v1710920757/foodimage_wsvb7j.webp');
     background-size: cover;
     background-position: center;
 
